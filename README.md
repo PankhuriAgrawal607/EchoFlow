@@ -1,14 +1,6 @@
-# Talkify Therapy Gamify
+# AI Speech Therapy Assistant
 
-Talkify Therapy Gamify is a project aimed at gamifying therapy sessions to make them more engaging and interactive.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Development](#development)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+The AI-Powered Speech Therapy Assistant is an innovative solution designed to support individuals facing communication challenges. By harnessing advanced artificial intelligence technologies, this project offers a unique combination of memory-based and scenario-based games, interactive exercises, and a voice assistant to enhance speech fluency and boost confidence in communication.
 
 ## Installation
 
@@ -30,22 +22,6 @@ To install this project, follow these steps:
     ```sh
     npm run dev
     ```
-
-## Development
-
-### Edit a file directly in GitHub
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-### Use GitHub Codespaces
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
 ## Technologies
 
@@ -76,6 +52,3 @@ Contributions are welcome! Please follow these steps to contribute:
     ```
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
